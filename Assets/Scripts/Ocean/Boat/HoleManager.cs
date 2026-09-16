@@ -146,11 +146,15 @@ public class HoleManager : MonoBehaviour
 
                 failedHoleSpawn = 0;
                 int holeSprite = Random.Range(0, spriteHole.Length);
-                holePrefab.GetComponent<SpriteRenderer>().sprite = spriteHole[holeSprite];
+                holePrefab.transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = spriteHole[holeSprite];
 
                 var hole = Instantiate(holePrefab, spawnPos, Quaternion.identity, boat);
-                holes.Add(hole);
-                floodWater.SetActive(true);
+                
+                 Quaternion  rotation = new Quaternion(); 
+                 rotation = Quaternion.Euler(0,0,Random.Range(0,360));
+                 hole.transform.GetChild(0).transform.rotation = rotation; 
+                 holes.Add(hole);
+                 floodWater.SetActive(true);
             }
             else
             {
