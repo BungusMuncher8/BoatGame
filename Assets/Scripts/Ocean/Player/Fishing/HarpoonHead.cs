@@ -8,11 +8,11 @@ public class HarpoonHead : MonoBehaviour
 
     public ParticleSystem blood;
 
-    [SerializeField] private ParticleSystem bubble;
+    // [SerializeField] private ParticleSystem bubble;
 
     public ParticleSystem bubbleSystem;
     public float particleSize;
-    public float bubbleOffsetY;
+    // public float bubbleOffsetY;
     public LayerMask water;
     public AudioSource source;
 
@@ -51,36 +51,37 @@ public class HarpoonHead : MonoBehaviour
     }
 
 
-    private void Bubbles()
-    {
 
-        Vector3 bubblePosition = new Vector3(0, 0, 0);
-        Quaternion rotation = new Quaternion(0,0,0,0);
-        if (transform.localScale.x > 0)
-        {
-             rotation = Quaternion.Euler(0, 0, harpoon.transform.GetChild(0).transform.eulerAngles.z);
-            bubblePosition = new Vector3(bubble.transform.position.x + bubbleOffsetY, bubble.transform.position.y - bubbleOffsetY, bubble.transform.position.z);
-        } else
-        {
-            rotation = Quaternion.Euler(0, 0, harpoon.transform.GetChild(0).transform.eulerAngles.z -180);
-            bubblePosition = new Vector3(bubble.transform.position.x - bubbleOffsetY, bubble.transform.position.y - bubbleOffsetY, bubble.transform.position.z);
-        }
+    // //private void Bubbles()
+    // {
 
-       bubbleSystem =Instantiate(bubble,bubblePosition, rotation );
-       bubbleSystem.transform.localScale = new Vector3(particleSize, particleSize, particleSize);
-       bubbleSystem.gameObject.SetActive(true);
+    //     Vector3 bubblePosition = new Vector3(0, 0, 0);
+    //     Quaternion rotation = new Quaternion(0,0,0,0);
+    //     if (transform.localScale.x > 0)
+    //     {
+    //          rotation = Quaternion.Euler(0, 0, harpoon.transform.GetChild(0).transform.eulerAngles.z);
+    //         bubblePosition = new Vector3(bubble.transform.position.x + bubbleOffsetY, bubble.transform.position.y - bubbleOffsetY, bubble.transform.position.z);
+    //     } else
+    //     {
+    //         rotation = Quaternion.Euler(0, 0, harpoon.transform.GetChild(0).transform.eulerAngles.z -180);
+    //         bubblePosition = new Vector3(bubble.transform.position.x - bubbleOffsetY, bubble.transform.position.y - bubbleOffsetY, bubble.transform.position.z);
+    //     }
+
+    //    bubbleSystem =Instantiate(bubble,bubblePosition, rotation );
+    //    bubbleSystem.transform.localScale = new Vector3(particleSize, particleSize, particleSize);
+    //    bubbleSystem.gameObject.SetActive(true);
        
-    }
-    public void DestroyBubble(){
+    // }
+    // public void DestroyBubble(){
 
-        if(bubbleSystem != null){
-            bubbleSystem.transform.parent = null;
-            //bubbleSystem.transform.localScale = new Vector3(particleSize,particleSize,particleSize);
-            bubbleSystem.Stop();
-            bubbleSystem = null;
-            //Destroy(bubbleSystem.gameObject);
-        }
-    }
+    //     if(bubbleSystem != null){
+    //         bubbleSystem.transform.parent = null;
+    //         //bubbleSystem.transform.localScale = new Vector3(particleSize,particleSize,particleSize);
+    //         bubbleSystem.Stop();
+    //         bubbleSystem = null;
+    //         //Destroy(bubbleSystem.gameObject);
+    //     }
+    // }
     public void Stop()
     {
         StopAllCoroutines();

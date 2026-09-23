@@ -63,4 +63,14 @@ public class WaveDeformer : MonoBehaviour
 
         return worldOffset.y;
     }
+
+    public Vector2[] GetVertices()
+    {
+         Vector2[] returnArray = new Vector2[vertices.Length];
+        for(int i = 0; i <vertices.Length; i++)
+        {
+            returnArray[i] = new Vector2 (vertices[i].x,vertices[i].y);
+        }
+        return returnArray;
+    }
 }

@@ -142,7 +142,7 @@ public class HarpoonGun2 : MonoBehaviour
     public IEnumerator Reel()
     {
         harpHead.GetComponent<Rigidbody2D>().simulated = false;
-        harpHead.GetComponent<HarpoonHead>().DestroyBubble();
+        // harpHead.GetComponent<HarpoonHead>().DestroyBubble();
         isReeling = true;
         if(hookedFish){
         yield return new WaitForSeconds(0.1f);
