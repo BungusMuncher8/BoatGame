@@ -29,7 +29,7 @@ public class Splash : MonoBehaviour
         {
             if(positions[i].y > transform.position.y)
             {
-                SplashAnimation(positions[i]);
+                // SplashAnimation(positions[i]);
                  
             }
         }
