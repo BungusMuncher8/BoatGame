@@ -30,7 +30,8 @@ public class Splash : MonoBehaviour
             if(positions[i].y > transform.position.y)
             {
                 // SplashAnimation(positions[i]);
-                 
+                 //need to loop through all y and find lowest on OR the smart thing is to look at the x and then check if it is lower instead
+                 // just do the smart thing :)
             }
         }
     }
