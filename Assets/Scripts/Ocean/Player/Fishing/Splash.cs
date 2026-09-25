@@ -43,12 +43,14 @@ public class Splash : MonoBehaviour
     }
     
     private void SplashAnimation() 
-    {
+    { 
+        transform.parent = null;
         sprite.enabled = true;
         hasSplashed = true;
         this.transform.position = new Vector3(harpHead.transform.position.x,harpHead.transform.position.y,0f);
-        this.transform.rotation = Quaternion.Euler(0,0,-harpHead.transform.rotation.x);
-        transform.parent = null;
+        this.transform.rotation = Quaternion.Euler(0,0,-harpHead.transform.rotation.z);
+        Debug.Log(-harpHead.transform.rotation.z);
+       
         anim.SetTrigger("Splash");
     }
     private void SplashEnd()
