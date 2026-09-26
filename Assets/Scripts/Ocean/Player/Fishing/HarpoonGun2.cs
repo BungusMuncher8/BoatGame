@@ -6,7 +6,7 @@ public class HarpoonGun2 : MonoBehaviour
 {
     [Header("Refrences")]
     [SerializeField] private GameObject player;
-    [SerializeField] private GameObject harpoon;
+    public GameObject harpoon;
     [SerializeField] private GameObject line;
     [SerializeField] private LineRenderer fishingLine;    
     [SerializeField] private Transform headHolder;   

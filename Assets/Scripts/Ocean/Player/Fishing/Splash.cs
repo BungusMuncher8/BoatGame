@@ -6,9 +6,12 @@ public class Splash : MonoBehaviour
     [SerializeField] private WaveDeformer wave;
      private SpriteRenderer sprite;
     [SerializeField] private HarpoonGun2 harp;
+    [SerializeField] private Transform holder;
     private GameObject harpHead;
 
     private bool hasSplashed;
+    public float size;
+    public float zOffset;
 
     private void Start()
     {
@@ -47,17 +50,24 @@ public class Splash : MonoBehaviour
         transform.parent = null;
         sprite.enabled = true;
         hasSplashed = true;
-        this.transform.position = new Vector3(harpHead.transform.position.x,harpHead.transform.position.y,0f);
-        this.transform.rotation = Quaternion.Euler(0,0,-harpHead.transform.rotation.z);
-        Debug.Log(-harpHead.transform.rotation.z);
-       
+        this.transform.position = new Vector3(harpHead.transform.position.x,harpHead.transform.position.y,transform.position.z);
+        
+       // Quaternion splashRotation =  Quaternion.Euler(0,0,-10*Mathf.Atan(harp.harpoon.transform.position.y-this.transform.position.y/harp.harpoon.transform.position.x-this.transform.position.x));
+       //Quaternion splashRotation = Quaternion.Inverse(harpHead.transform.rotation);
+       Quaternion q = harpHead.transform.rotation;
+       Quaternion splashRotation = new Quaternion(-q.x,q.y,-q.z,q.w);
+       this.transform.localScale = new Vector3(size,size,size);
+        //if(splashRotation)
+        this.transform.rotation =  splashRotation;
         anim.SetTrigger("Splash");
+        
     }
     private void SplashEnd()
     {
-        transform.parent = harpHead.transform;
-        transform.position = harpHead.transform.position;
+        transform.parent = holder;
+        transform.position = new Vector3(harpHead.transform.position.x,harpHead.transform.position.y, transform.position.z);
         sprite.enabled = false;
+         this.transform.position = new Vector3(this.transform.position.x,this.transform.position.y,zOffset);
         hasSplashed = false;
     }
 }

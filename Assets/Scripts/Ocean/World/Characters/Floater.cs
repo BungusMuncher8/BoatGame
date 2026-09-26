@@ -23,7 +23,7 @@ public class Floater : MonoBehaviour
         y = waveValue * wave.amplitude;
 
         // Move boat vertically
-        transform.position = new Vector2(transform.position.x, y + yOffset);
+        transform.position = new Vector3(transform.position.x, y + yOffset,transform.position.z);
 
 
 
