@@ -51,11 +51,13 @@ public class Splash : MonoBehaviour
         sprite.enabled = true;
         hasSplashed = true;
         this.transform.position = new Vector3(harpHead.transform.position.x,harpHead.transform.position.y,transform.position.z);
-        
-       // Quaternion splashRotation =  Quaternion.Euler(0,0,-10*Mathf.Atan(harp.harpoon.transform.position.y-this.transform.position.y/harp.harpoon.transform.position.x-this.transform.position.x));
+        float radianZ = Mathf.Atan(harpHead.transform.position.y-harp.harpoon.transform.position.y/harpHead.transform.position.x-harp.harpoon.transform.position.x);
+        Quaternion splashRotation =  Quaternion.Euler(0,0,Mathf.Rad2Deg*radianZ);
        //Quaternion splashRotation = Quaternion.Inverse(harpHead.transform.rotation);
-       Quaternion q = harpHead.transform.rotation;
-       Quaternion splashRotation = new Quaternion(-q.x,q.y,-q.z,q.w);
+    //    Quaternion q = harpHead.transform.rotation;
+    //    Quaternion splashRotation = new Quaternion(-q.x,q.y,-q.z,q.w);
+        Debug.Log(radianZ + "RADIANS");
+        
        this.transform.localScale = new Vector3(size,size,size);
         //if(splashRotation)
         this.transform.rotation =  splashRotation;
@@ -66,6 +68,7 @@ public class Splash : MonoBehaviour
     {
         transform.parent = holder;
         transform.position = new Vector3(harpHead.transform.position.x,harpHead.transform.position.y, transform.position.z);
+        transform.rotation = Quaternion.identity;
         sprite.enabled = false;
          this.transform.position = new Vector3(this.transform.position.x,this.transform.position.y,zOffset);
         hasSplashed = false;
