@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: f4e33de70d59e4f65a7721c46d75e1fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -227089389583669027
+    second: Armed Idle No Wind_0
+  - first:
+      213: 2699010531936791982
+    second: Armed Idle No Wind_1
+  - first:
+      213: 2228343562264964623
+    second: Armed Idle No Wind_2
+  - first:
+      213: -3666961976376373670
+    second: Armed Idle No Wind_3
+  - first:
+      213: 6957006060230956887
+    second: Armed Idle No Wind_4
+  - first:
+      213: 5224998641934836191
+    second: Armed Idle No Wind_5
+  - first:
+      213: 5650449157542943033
+    second: Armed Idle No Wind_6
+  - first:
+      213: 519483748173344406
+    second: Armed Idle No Wind_7
+  - first:
+      213: -3762011806815185783
+    second: Armed Idle No Wind_8
+  - first:
+      213: 4665641403006545061
+    second: Armed Idle No Wind_9
+  - first:
+      213: 966145899153129913
+    second: Armed Idle No Wind_10
+  - first:
+      213: 439832448347428064
+    second: Armed Idle No Wind_11
+  - first:
+      213: 8390081324860951243
+    second: Armed Idle No Wind_12
+  - first:
+      213: -6602344694448620392
+    second: Armed Idle No Wind_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armed Idle No Wind_0
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2245
+        width: 306
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8ea91476739dcf0800000000000000
+      internalID: -227089389583669027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_1
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 2245
+        width: 303
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead612167cfc47520800000000000000
+      internalID: 2699010531936791982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_2
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2898
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ee452e9aaacee10800000000000000
+      internalID: 2228343562264964623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_3
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 2245
+        width: 303
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ec839c2855c1dc0800000000000000
+      internalID: -3666961976376373670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_4
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 2245
+        width: 303
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7575e48e6204c8060800000000000000
+      internalID: 6957006060230956887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_5
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 2091
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1ac64e49ce28840800000000000000
+      internalID: 5224998641934836191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_6
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1165
+        width: 305
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93990c8429d6a6e40800000000000000
+      internalID: 5650449157542943033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_7
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 1165
+        width: 302
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ee57477b3953700800000000000000
+      internalID: 519483748173344406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_8
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 1165
+        width: 297
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98494f59136aacbc0800000000000000
+      internalID: -3762011806815185783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_9
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 1165
+        width: 301
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac6f8be220bfb040800000000000000
+      internalID: 4665641403006545061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_10
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 85
+        width: 318
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b109309390786d00800000000000000
+      internalID: 966145899153129913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_11
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 85
+        width: 309
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4507c08499a1600800000000000000
+      internalID: 439832448347428064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_12
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 85
+        width: 305
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcac9fc238e8f6470800000000000000
+      internalID: 8390081324860951243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle No Wind_13
+      rect:
+        serializedVersion: 2
+        x: 6602
+        y: 85
+        width: 312
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c74ba2b72cf54a0800000000000000
+      internalID: -6602344694448620392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Armed Idle No Wind_0: -227089389583669027
+      Armed Idle No Wind_1: 2699010531936791982
+      Armed Idle No Wind_10: 966145899153129913
+      Armed Idle No Wind_11: 439832448347428064
+      Armed Idle No Wind_12: 8390081324860951243
+      Armed Idle No Wind_13: -6602344694448620392
+      Armed Idle No Wind_2: 2228343562264964623
+      Armed Idle No Wind_3: -3666961976376373670
+      Armed Idle No Wind_4: 6957006060230956887
+      Armed Idle No Wind_5: 5224998641934836191
+      Armed Idle No Wind_6: 5650449157542943033
+      Armed Idle No Wind_7: 519483748173344406
+      Armed Idle No Wind_8: -3762011806815185783
+      Armed Idle No Wind_9: 4665641403006545061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

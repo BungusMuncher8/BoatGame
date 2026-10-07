@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 3ea105762cfd14d89afd84ec39a384ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4564228335641396742
+    second: Armed Idle Front Wind_0
+  - first:
+      213: 1479224838193487647
+    second: Armed Idle Front Wind_1
+  - first:
+      213: -8372636213815234991
+    second: Armed Idle Front Wind_2
+  - first:
+      213: -6489124154127407690
+    second: Armed Idle Front Wind_3
+  - first:
+      213: 3493275558047666545
+    second: Armed Idle Front Wind_4
+  - first:
+      213: 1647520095140247178
+    second: Armed Idle Front Wind_5
+  - first:
+      213: -7556940594562214767
+    second: Armed Idle Front Wind_6
+  - first:
+      213: 4936073545747950329
+    second: Armed Idle Front Wind_7
+  - first:
+      213: -1007735201669070397
+    second: Armed Idle Front Wind_8
+  - first:
+      213: -4561894757639408763
+    second: Armed Idle Front Wind_9
+  - first:
+      213: -8749222581905820073
+    second: Armed Idle Front Wind_10
+  - first:
+      213: 545440915814742865
+    second: Armed Idle Front Wind_11
+  - first:
+      213: 5211278694822411091
+    second: Armed Idle Front Wind_12
+  - first:
+      213: -1212176372644754911
+    second: Armed Idle Front Wind_13
+  - first:
+      213: 7887790869714364935
+    second: Armed Idle Front Wind_14
+  - first:
+      213: -1807053424933074390
+    second: Armed Idle Front Wind_15
+  - first:
+      213: 1242124139780389328
+    second: Armed Idle Front Wind_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_0
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2245
+        width: 306
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af97254d28a98a0c0800000000000000
+      internalID: -4564228335641396742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_1
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 2245
+        width: 358
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f157f2723478410800000000000000
+      internalID: 1479224838193487647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_2
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2898
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ea8f149bb6ecb80800000000000000
+      internalID: -8372636213815234991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_3
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 2245
+        width: 410
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b524d176fff1f5a0800000000000000
+      internalID: -6489124154127407690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_4
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 2245
+        width: 414
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1715cf3ac9b9a7030800000000000000
+      internalID: 3493275558047666545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_5
+      rect:
+        serializedVersion: 2
+        x: 6967
+        y: 2862
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86f62f2cca2dd610800000000000000
+      internalID: 1647520095140247178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_6
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 2091
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194d360519a502790800000000000000
+      internalID: -7556940594562214767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1165
+        width: 397
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa6287ccb4708440800000000000000
+      internalID: 4936073545747950329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_8
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1165
+        width: 365
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1cbdc5c2ec302f0800000000000000
+      internalID: -1007735201669070397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_9
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 1165
+        width: 340
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583bf2c43e4e0b0c0800000000000000
+      internalID: -4561894757639408763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_10
+      rect:
+        serializedVersion: 2
+        x: 6548
+        y: 1165
+        width: 356
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7567da8ca64849680800000000000000
+      internalID: -8749222581905820073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_11
+      rect:
+        serializedVersion: 2
+        x: 7066
+        y: 1777
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf9118f9bc19700800000000000000
+      internalID: 545440915814742865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_12
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1509
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b7376cc5e225840800000000000000
+      internalID: 5211278694822411091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_13
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 85
+        width: 375
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a436fe20c7d2fe0800000000000000
+      internalID: -1212176372644754911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_14
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 85
+        width: 396
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ae4e33100177d60800000000000000
+      internalID: 7887790869714364935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_15
+      rect:
+        serializedVersion: 2
+        x: 4574
+        y: 85
+        width: 417
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a06b4fb7e0ce6e0800000000000000
+      internalID: -1807053424933074390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armed Idle Front Wind_16
+      rect:
+        serializedVersion: 2
+        x: 6548
+        y: 85
+        width: 537
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d93c86f259ec3110800000000000000
+      internalID: 1242124139780389328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Armed Idle Front Wind_0: -4564228335641396742
+      Armed Idle Front Wind_1: 1479224838193487647
+      Armed Idle Front Wind_10: -8749222581905820073
+      Armed Idle Front Wind_11: 545440915814742865
+      Armed Idle Front Wind_12: 5211278694822411091
+      Armed Idle Front Wind_13: -1212176372644754911
+      Armed Idle Front Wind_14: 7887790869714364935
+      Armed Idle Front Wind_15: -1807053424933074390
+      Armed Idle Front Wind_16: 1242124139780389328
+      Armed Idle Front Wind_2: -8372636213815234991
+      Armed Idle Front Wind_3: -6489124154127407690
+      Armed Idle Front Wind_4: 3493275558047666545
+      Armed Idle Front Wind_5: 1647520095140247178
+      Armed Idle Front Wind_6: -7556940594562214767
+      Armed Idle Front Wind_7: 4936073545747950329
+      Armed Idle Front Wind_8: -1007735201669070397
+      Armed Idle Front Wind_9: -4561894757639408763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
