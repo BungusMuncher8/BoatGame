@@ -6,20 +6,17 @@ public class Splash : MonoBehaviour
     [SerializeField] private WaveDeformer wave;
      private SpriteRenderer sprite;
     [SerializeField] private HarpoonGun2 harp;
-    [SerializeField] private Transform holder;
+    [SerializeField] private GameObject splashPrefab;
+    [SerializeField] private FishEngineReal engine;
     private GameObject harpHead;
 
-    private bool hasSplashed;
+    public bool hasSplashed;
     public float size;
     public float zOffset;
 
     private void Start()
     {
-        sprite = this.GetComponent<SpriteRenderer>();
-        anim = GetComponent<Animator>();
-        sprite.enabled = false;
         harpHead = harp.harpHead;
-
     }
     private void Update()
     {
@@ -27,6 +24,11 @@ public class Splash : MonoBehaviour
         {
             checkSplash(wave.GetVertices());
         }
+         if(!harp.hasFire)
+        {
+            hasSplashed = false;
+        }
+        
     }
 
     private void checkSplash(Vector2[] positions)
@@ -47,32 +49,24 @@ public class Splash : MonoBehaviour
     
     private void SplashAnimation() 
     { 
-        transform.parent = null;
-        sprite.enabled = true;
+        
+
         hasSplashed = true;
-        this.transform.position = new Vector3(harpHead.transform.position.x,harpHead.transform.position.y,transform.position.z);
-        Debug.Log(transform.position + "this");
-        Debug.Log(harp.harpoon.transform.position + "harp");
-        float radianZ = Mathf.Atan(transform.position.x-harp.harpoon.transform.position.x/ transform.position.y-harp.harpoon.transform.position.y);
-        Quaternion splashRotation =  Quaternion.Euler(0,0,Mathf.Rad2Deg*radianZ);
-       //Quaternion splashRotation = Quaternion.Inverse(harpHead.transform.rotation);
-    //    Quaternion q = harpHead.transform.rotation;
-    //    Quaternion splashRotation = new Quaternion(-q.x,q.y,-q.z,q.w);
-        Debug.Log(radianZ + " RADIANS");
+
         
-       this.transform.localScale = new Vector3(size,size,size);
-        //if(splashRotation)
-        this.transform.rotation =  splashRotation;
-        anim.SetTrigger("Splash");
+        //this.transform.position = new Vector3(harpHead.transform.position.x,harpHead.transform.position.y,transform.position.z);
+
+        float fraction = ((harpHead.transform.position.x - harp.harpEnd.transform.position.x)/(harpHead.transform.position.y -harp.harpEnd.transform.position.y));
+        float radianZ = Mathf.Atan(fraction); // uses basic trig to find the angle to set rotation. 
+        Quaternion splashRotation =  Quaternion.Euler(0,0,Mathf.Rad2Deg*radianZ*-1);
+        Vector3 position = new Vector3(harpHead.transform.position.x,harpHead.transform.position.y,zOffset);
+        GameObject splash = Instantiate(splashPrefab, position, splashRotation);
+        splash.transform.localScale = new Vector3(size,size,size);
+        var script = splash.GetComponent<Floater>();
+        script.wave = this.wave;
+        script.speed = this.engine;
+        
         
     }
-    private void SplashEnd()
-    {
-        transform.parent = holder;
-        transform.position = new Vector3(harpHead.transform.position.x,harpHead.transform.position.y, transform.position.z);
-        transform.rotation = Quaternion.identity;
-        sprite.enabled = false;
-         this.transform.position = new Vector3(this.transform.position.x,this.transform.position.y,zOffset);
-        hasSplashed = false;
-    }
+   
 }
