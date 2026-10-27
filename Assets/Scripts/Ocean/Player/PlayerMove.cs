@@ -116,7 +116,8 @@ public class PlayerMove : MonoBehaviour
         {
             canFlip = false;
             isTurning = true;
-
+            freeze = true;
+            rb.linearVelocity=Vector2.zero;
             animator.SetTrigger("Turn");
             harpoon.Turn();
            // harpHead.GetComponent<Rigidbody2D>().rotation = -harpHead.GetComponent<Rigidbody2D>().rotation;
@@ -134,6 +135,7 @@ public class PlayerMove : MonoBehaviour
     public void Flip()
     {
         //harpHead.GetComponent<Rigidbody2D>().rotation = -harpHead.GetComponent<Rigidbody2D>().rotation;
+        freeze = false;
         GetComponent<EnterBoat>().canEnter = true;
         canFlip = true;
         Vector3 localScale = transform.localScale;
