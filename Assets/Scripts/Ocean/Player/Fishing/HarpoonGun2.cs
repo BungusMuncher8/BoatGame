@@ -99,6 +99,7 @@ public class HarpoonGun2 : MonoBehaviour
         canCast = false;
         canFire = true;
         harpoon.SetActive(true);
+        player.GetComponent<Animator>().SetBool("Harpoon", true);
         anim.SetTrigger("Prep");
        
     }
@@ -110,6 +111,7 @@ public class HarpoonGun2 : MonoBehaviour
         canFire= false;
         line.SetActive(false);
         harpoon.transform.SetLocalPositionAndRotation(harpoon.transform.localPosition, quatZero);
+        player.GetComponent<Animator>().SetBool("Harpoon", false);
         harpoon.SetActive(false);
         
     }

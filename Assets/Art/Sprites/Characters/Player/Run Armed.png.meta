@@ -142,12 +142,12 @@ TextureImporter:
       name: Run Armed_0
       rect:
         serializedVersion: 2
-        x: 731
-        y: 2244
-        width: 540
-        height: 868
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -164,12 +164,12 @@ TextureImporter:
       name: Run Armed_1
       rect:
         serializedVersion: 2
-        x: 1272
-        y: 3001
-        width: 9
-        height: 9
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -186,12 +186,12 @@ TextureImporter:
       name: Run Armed_2
       rect:
         serializedVersion: 2
-        x: 2720
-        y: 2244
-        width: 414
-        height: 839
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -208,12 +208,12 @@ TextureImporter:
       name: Run Armed_3
       rect:
         serializedVersion: 2
-        x: 4570
-        y: 2246
-        width: 553
-        height: 861
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -230,12 +230,12 @@ TextureImporter:
       name: Run Armed_4
       rect:
         serializedVersion: 2
-        x: 1150
-        y: 2596
-        width: 125
-        height: 132
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -252,12 +252,12 @@ TextureImporter:
       name: Run Armed_5
       rect:
         serializedVersion: 2
-        x: 4834
-        y: 2204
-        width: 71
-        height: 14
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -274,12 +274,12 @@ TextureImporter:
       name: Run Armed_6
       rect:
         serializedVersion: 2
-        x: 640
-        y: 1162
-        width: 747
-        height: 873
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,12 +296,12 @@ TextureImporter:
       name: Run Armed_7
       rect:
         serializedVersion: 2
-        x: 2635
-        y: 1169
-        width: 622
-        height: 847
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -314,143 +314,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Run Armed_8
-      rect:
-        serializedVersion: 2
-        x: 3310
-        y: 1918
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b13a7749d5f42b20800000000000000
-      internalID: 3108879956348383673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run Armed_9
-      rect:
-        serializedVersion: 2
-        x: 4688
-        y: 1164
-        width: 363
-        height: 809
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 772bf14bc820a5b60800000000000000
-      internalID: 7735498113302901367
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run Armed_10
-      rect:
-        serializedVersion: 2
-        x: 5369
-        y: 1556
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a33a793c218557090800000000000000
-      internalID: -8037421122358631622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run Armed_11
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 77
-        width: 475
-        height: 846
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 03457b38c13c73e40800000000000000
-      internalID: 5636187985913795632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run Armed_12
-      rect:
-        serializedVersion: 2
-        x: 1148
-        y: 388
-        width: 94
-        height: 134
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f0cf7e2dc92a6aa0800000000000000
-      internalID: -6167070778505314055
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run Armed_13
-      rect:
-        serializedVersion: 2
-        x: 2549
-        y: 111
-        width: 717
-        height: 839
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97a386e4c9b09ec50800000000000000
-      internalID: 6694895087021210233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 37d25a845bdc26b4f9f8467f432659b2
     internalID: 0
     vertices: []
     indices: 
@@ -458,22 +326,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Run Armed_0: 7675408529307368620
       Run Armed_1: -59714850371014760
-      Run Armed_10: -8037421122358631622
-      Run Armed_11: 5636187985913795632
-      Run Armed_12: -6167070778505314055
-      Run Armed_13: 6694895087021210233
       Run Armed_2: 1178041657653755573
       Run Armed_3: 4005914048986211082
       Run Armed_4: 1916361023288781403
       Run Armed_5: 1329175255561157114
       Run Armed_6: -5537215004586389168
       Run Armed_7: -2693166724005793682
-      Run Armed_8: 3108879956348383673
-      Run Armed_9: 7735498113302901367
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
