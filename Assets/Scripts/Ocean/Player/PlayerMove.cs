@@ -116,7 +116,7 @@ public class PlayerMove : MonoBehaviour
         {
             canFlip = false;
             isTurning = true;
-            freeze = true;
+           // freeze = true;
             rb.linearVelocity=Vector2.zero;
             animator.SetTrigger("Turn");
             harpoon.Turn();
