@@ -29,6 +29,8 @@ public class BGCameraZoom : MonoBehaviour
    }
    private void Zoom()
    {
-
+        //float position;
+        cam.orthographicSize = Mathf.MoveTowards(cam.orthographicSize, zoomTargetSize, Time.deltaTime * zoomSpeed);
+        
    }
 }
