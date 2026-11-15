@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 0e6dce77f0e04468ba63752fb68e50d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7566591661079744865
+    second: Earwig Swim_0
+  - first:
+      213: 8537742956315565177
+    second: Earwig Swim_1
+  - first:
+      213: -3697233506724693805
+    second: Earwig Swim_2
+  - first:
+      213: -7239550905953915311
+    second: Earwig Swim_3
+  - first:
+      213: -5427878316297950551
+    second: Earwig Swim_4
+  - first:
+      213: -6124592018074300621
+    second: Earwig Swim_5
+  - first:
+      213: 2443204046641882883
+    second: Earwig Swim_6
+  - first:
+      213: 954701130230256586
+    second: Earwig Swim_7
+  - first:
+      213: 6445304420614284307
+    second: Earwig Swim_8
+  - first:
+      213: -4109765688078292584
+    second: Earwig Swim_9
+  - first:
+      213: 2005711340679265904
+    second: Earwig Swim_10
+  - first:
+      213: 6700243788828993196
+    second: Earwig Swim_11
+  - first:
+      213: 6492855412004112813
+    second: Earwig Swim_12
+  - first:
+      213: -8391022253245847801
+    second: Earwig Swim_13
+  - first:
+      213: -406212439498318991
+    second: Earwig Swim_14
+  - first:
+      213: -5484921999679977731
+    second: Earwig Swim_15
+  - first:
+      213: 531607738195885817
+    second: Earwig Swim_16
+  - first:
+      213: -6545316805432116957
+    second: Earwig Swim_17
+  - first:
+      213: -2796028562057695201
+    second: Earwig Swim_18
+  - first:
+      213: -4834067368858517966
+    second: Earwig Swim_19
+  - first:
+      213: -7464518544712467277
+    second: Earwig Swim_20
+  - first:
+      213: -39195475418788441
+    second: Earwig Swim_21
+  - first:
+      213: 6809209489419180168
+    second: Earwig Swim_22
+  - first:
+      213: -6234172524963187964
+    second: Earwig Swim_23
+  - first:
+      213: -5768197003088683073
+    second: Earwig Swim_24
+  - first:
+      213: -2112827498512499514
+    second: Earwig Swim_25
+  - first:
+      213: 5022319329837469238
+    second: Earwig Swim_26
+  - first:
+      213: -6295045618248065395
+    second: Earwig Swim_27
+  - first:
+      213: -6003538951200230110
+    second: Earwig Swim_28
+  - first:
+      213: 810546937901753659
+    second: Earwig Swim_29
+  - first:
+      213: -5514592164713042915
+    second: Earwig Swim_30
+  - first:
+      213: 2516209642050675684
+    second: Earwig Swim_31
+  - first:
+      213: -10644730941610917
+    second: Earwig Swim_32
+  - first:
+      213: -6973265933348811099
+    second: Earwig Swim_33
+  - first:
+      213: 6189330291737722693
+    second: Earwig Swim_34
+  - first:
+      213: 3845223978460482223
+    second: Earwig Swim_35
+  - first:
+      213: 3679468617606838701
+    second: Earwig Swim_36
+  - first:
+      213: -9064903437869148854
+    second: Earwig Swim_37
+  - first:
+      213: 2029300874329373723
+    second: Earwig Swim_38
+  - first:
+      213: 6810955985205297504
+    second: Earwig Swim_39
+  - first:
+      213: -2358155121111479804
+    second: Earwig Swim_40
+  - first:
+      213: 2317642926854573436
+    second: Earwig Swim_41
+  - first:
+      213: -3334288354602264785
+    second: Earwig Swim_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earwig Swim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1615717b60fe10960800000000000000
+      internalID: 7566591661079744865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_1
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1440
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c58cedbf72c7670800000000000000
+      internalID: 8537742956315565177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_2
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1440
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8b004e6b9c0bcc0800000000000000
+      internalID: -3697233506724693805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_3
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1440
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e624dcec2f78b90800000000000000
+      internalID: -7239550905953915311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aae301fd6d4ca4b0800000000000000
+      internalID: -5427878316297950551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_5
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 720
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f0d705204110ba0800000000000000
+      internalID: -6124592018074300621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_6
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 720
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307e2e1c22108e120800000000000000
+      internalID: 2443204046641882883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_7
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 720
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3d906ae97cf3d00800000000000000
+      internalID: 954701130230256586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a32b53921084626a2d9720d5ee0507
+      internalID: 1284319041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_9
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8280d887080e9406d96bca45c397bc44
+      internalID: -1919489459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_10
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a16bd2b19be6462aa6b258ba935b4f2
+      internalID: -1970738404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earwig Swim_11
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 1680
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34922a0d683134efda1d583410396695
+      internalID: 1185833665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b03b8a7b56aba4553a34fc8919996695
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1680.0,"y":720.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Earwig Swim_0: 7566591661079744865
+      Earwig Swim_1: 8537742956315565177
+      Earwig Swim_10: -1970738404
+      Earwig Swim_11: 1185833665
+      Earwig Swim_2: -3697233506724693805
+      Earwig Swim_3: -7239550905953915311
+      Earwig Swim_4: -5427878316297950551
+      Earwig Swim_5: -6124592018074300621
+      Earwig Swim_6: 2443204046641882883
+      Earwig Swim_7: 954701130230256586
+      Earwig Swim_8: 1284319041
+      Earwig Swim_9: -1919489459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
