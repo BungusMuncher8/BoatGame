@@ -170,6 +170,10 @@ public class EnterBoat : MonoBehaviour
         player.GetComponent<SpriteRenderer>().enabled = false;
         playerAnimations.SetActive(true);
         playerAnimations.GetComponent<Animator>().SetTrigger("InsideEnter");
+
+        playerAnimations.GetComponent<SpriteRenderer>().sortingLayerName = insideLayer; //Changes Layers and Order 
+        playerAnimations.GetComponent<SpriteRenderer>().sortingOrder = 1;
+
         playerAnimations.transform.position =  insideAnimationEnterPos.position; 
 
         //Set stuff active/inactive for inside        
@@ -188,12 +192,12 @@ public class EnterBoat : MonoBehaviour
 
         // change layers to display correctly
         player.GetComponent<SpriteRenderer>().sortingLayerName= insideLayer;
-        playerAnimations.GetComponent<SpriteRenderer>().sortingLayerName = insideLayer;
+        
         harpoon.GetComponent<SpriteRenderer>().sortingLayerName = insideLayer;
 
         // Set Position and make sure character is facing right
         transform.position = enterLocation.position;
-        playerAnimations.transform.position = enterLocation.position;
+        
         Vector3 localScale = transform.localScale;
         if (localScale.x < 0)
         {
