@@ -1,10 +1,25 @@
 fileFormatVersion: 2
-guid: 885fe0c9d4857449e9b867ee91ebe44b
+guid: 18c313fe1e6384adbb564b4a16c01620
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3928210869666376424
-    second: Harpoon Arm_0
+      213: -5226210324522823824
+    second: Stow Harpoon_0
+  - first:
+      213: 2410448680352134985
+    second: Stow Harpoon_1
+  - first:
+      213: -8011459585530831108
+    second: Stow Harpoon_2
+  - first:
+      213: -3364412412832546320
+    second: Stow Harpoon_3
+  - first:
+      213: 7556441132238001824
+    second: Stow Harpoon_4
+  - first:
+      213: -2218213595538554700
+    second: Stow Harpoon_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +115,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Harpoon Arm_0
+      name: Harpoon Stow_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 5760
-        height: 2160
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8eaea4139fec38630800000000000000
-      internalID: 3928210869666376424
+      spriteID: bcc50ba77b8814a98a0e400f14e5351e
+      internalID: 1026580145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harpoon Stow_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0422219f584b4d9670d739d562b0e
+      internalID: 2141390014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harpoon Stow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5e61327237463aab486d75cff8e90
+      internalID: -1871774488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harpoon Stow_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290a62ee58d69441cbb3aa6d7d5ad311
+      internalID: -727800892
       vertices: []
       indices: 
       edges: []
@@ -125,7 +206,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 65c514c347abb4e48a3da8db53e558db
     internalID: 0
     vertices: []
     indices: 
@@ -133,9 +214,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Harpoon Arm_0: 3928210869666376424
+      Harpoon Stow_0: 1026580145
+      Harpoon Stow_1: 2141390014
+      Harpoon Stow_2: -1871774488
+      Harpoon Stow_3: -727800892
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
