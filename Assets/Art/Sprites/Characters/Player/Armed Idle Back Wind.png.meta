@@ -145,12 +145,12 @@ TextureImporter:
       name: Armed Idle Back Wind_0
       rect:
         serializedVersion: 2
-        x: 856
-        y: 2245
-        width: 314
-        height: 724
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -167,12 +167,12 @@ TextureImporter:
       name: Armed Idle Back Wind_1
       rect:
         serializedVersion: 2
-        x: 4696
-        y: 2245
-        width: 339
-        height: 723
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -189,12 +189,12 @@ TextureImporter:
       name: Armed Idle Back Wind_2
       rect:
         serializedVersion: 2
-        x: 5228
-        y: 2965
-        width: 13
-        height: 22
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -211,12 +211,12 @@ TextureImporter:
       name: Armed Idle Back Wind_3
       rect:
         serializedVersion: 2
-        x: 6616
-        y: 2245
-        width: 332
-        height: 729
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -233,12 +233,12 @@ TextureImporter:
       name: Armed Idle Back Wind_4
       rect:
         serializedVersion: 2
-        x: 2776
-        y: 2245
-        width: 340
-        height: 719
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -255,12 +255,12 @@ TextureImporter:
       name: Armed Idle Back Wind_5
       rect:
         serializedVersion: 2
-        x: 635
-        y: 1475
-        width: 11
-        height: 12
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -277,12 +277,12 @@ TextureImporter:
       name: Armed Idle Back Wind_6
       rect:
         serializedVersion: 2
-        x: 856
-        y: 1165
-        width: 310
-        height: 727
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -299,12 +299,12 @@ TextureImporter:
       name: Armed Idle Back Wind_7
       rect:
         serializedVersion: 2
-        x: 2771
-        y: 1165
-        width: 297
-        height: 726
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -321,12 +321,12 @@ TextureImporter:
       name: Armed Idle Back Wind_8
       rect:
         serializedVersion: 2
-        x: 4696
-        y: 1165
-        width: 328
-        height: 720
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -343,12 +343,12 @@ TextureImporter:
       name: Armed Idle Back Wind_9
       rect:
         serializedVersion: 2
-        x: 6616
-        y: 1165
-        width: 355
-        height: 717
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -365,12 +365,12 @@ TextureImporter:
       name: Armed Idle Back Wind_10
       rect:
         serializedVersion: 2
-        x: 856
-        y: 85
-        width: 337
-        height: 719
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -387,12 +387,12 @@ TextureImporter:
       name: Armed Idle Back Wind_11
       rect:
         serializedVersion: 2
-        x: 2776
-        y: 85
-        width: 317
-        height: 717
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -405,77 +405,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Armed Idle Back Wind_12
-      rect:
-        serializedVersion: 2
-        x: 4696
-        y: 85
-        width: 329
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d0da6aeecc2ad6810800000000000000
-      internalID: 1760242030432660749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armed Idle Back Wind_13
-      rect:
-        serializedVersion: 2
-        x: 6616
-        y: 85
-        width: 312
-        height: 717
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3698d1d98d46da0e0800000000000000
-      internalID: -2257036956731078301
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armed Idle Back Wind_14
-      rect:
-        serializedVersion: 2
-        x: 7326
-        y: 797
-        width: 23
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f89b52dbfe5d1630800000000000000
-      internalID: 3899377288031738104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fbe9ccc19af92cf4aa788d7ec5adc710
     internalID: 0
     vertices: []
     indices: 
@@ -483,15 +417,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Armed Idle Back Wind_0: -1791544614141333772
       Armed Idle Back Wind_1: 8328702816043769760
       Armed Idle Back Wind_10: -6492352910589972502
       Armed Idle Back Wind_11: -3016859896729796583
-      Armed Idle Back Wind_12: 1760242030432660749
-      Armed Idle Back Wind_13: -2257036956731078301
-      Armed Idle Back Wind_14: 3899377288031738104
       Armed Idle Back Wind_2: 360847778336669880
       Armed Idle Back Wind_3: -3156616493638831001
       Armed Idle Back Wind_4: 2371871975760850698

@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: f5a9279cba6214aeb96c5481a22eee5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6319510475187443874
+    second: Idle Detatched Head_0
+  - first:
+      213: 882883215730946632
+    second: Idle Detatched Head_1
+  - first:
+      213: 7660320127131228448
+    second: Idle Detatched Head_2
+  - first:
+      213: -9089895693511565382
+    second: Idle Detatched Head_3
+  - first:
+      213: -6896005273713077519
+    second: Idle Detatched Head_4
+  - first:
+      213: 6798310861738725510
+    second: Idle Detatched Head_5
+  - first:
+      213: -6132655192999601082
+    second: Idle Detatched Head_6
+  - first:
+      213: 2439371719348744982
+    second: Idle Detatched Head_7
+  - first:
+      213: 8681706284653153256
+    second: Idle Detatched Head_8
+  - first:
+      213: 7306490499701803898
+    second: Idle Detatched Head_9
+  - first:
+      213: 8219547177134018987
+    second: Idle Detatched Head_10
+  - first:
+      213: -7152861099666235936
+    second: Idle Detatched Head_11
+  - first:
+      213: -76677749341942185
+    second: Idle Detatched Head_12
+  - first:
+      213: 5667790256359783101
+    second: Idle Detatched Head_13
+  - first:
+      213: 1219304581722051963
+    second: Idle Detatched Head_14
+  - first:
+      213: 1835864010597615176
+    second: Idle Detatched Head_15
+  - first:
+      213: -7256483130430622176
+    second: Idle Detatched Head_16
+  - first:
+      213: 8996468805959863584
+    second: Idle Detatched Head_17
+  - first:
+      213: -6300262097462133388
+    second: Idle Detatched Head_18
+  - first:
+      213: -399182746950138799
+    second: Idle Detatched Head_19
+  - first:
+      213: -8969662299261320220
+    second: Idle Detatched Head_20
+  - first:
+      213: 6449833763729713412
+    second: Idle Detatched Head_21
+  - first:
+      213: 7025163693277593510
+    second: Idle Detatched Head_22
+  - first:
+      213: 7327442144399720709
+    second: Idle Detatched Head_23
+  - first:
+      213: 2574359848942027923
+    second: Idle Detatched Head_24
+  - first:
+      213: 3052674582150022704
+    second: Idle Detatched Head_25
+  - first:
+      213: 7765794188268975641
+    second: Idle Detatched Head_26
+  - first:
+      213: 6793843950130305867
+    second: Idle Detatched Head_27
+  - first:
+      213: 265614424975261016
+    second: Idle Detatched Head_28
+  - first:
+      213: -6709525054460246695
+    second: Idle Detatched Head_29
+  - first:
+      213: -7538783999609949993
+    second: Idle Detatched Head_30
+  - first:
+      213: -2515401751543597538
+    second: Idle Detatched Head_31
+  - first:
+      213: -1073993624263222588
+    second: Idle Detatched Head_32
+  - first:
+      213: 5146446439323816338
+    second: Idle Detatched Head_33
+  - first:
+      213: -4509586003404900846
+    second: Idle Detatched Head_34
+  - first:
+      213: 401091176006331685
+    second: Idle Detatched Head_35
+  - first:
+      213: 4431653894516354077
+    second: Idle Detatched Head_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Detatched Head_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57a71c74b69c48a0800000000000000
+      internalID: -6319510475187443874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8423cc36b91a04c00800000000000000
+      internalID: 882883215730946632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0299e6bc19cee4a60800000000000000
+      internalID: 7660320127131228448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_3
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfd3eee6043ad180800000000000000
+      internalID: -9089895693511565382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f29c1b7db77c40a0800000000000000
+      internalID: -6896005273713077519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_5
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680dd92b5b3785e50800000000000000
+      internalID: 6798310861738725510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cdd4b189e64eaa0800000000000000
+      internalID: -6132655192999601082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_7
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137ae687a36ad120800000000000000
+      internalID: 2439371719348744982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb07054edd9b7870800000000000000
+      internalID: 8681706284653153256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b0e75e56ed56560800000000000000
+      internalID: 7306490499701803898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_10
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba153abcb92b11270800000000000000
+      internalID: 8219547177134018987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Detatched Head_11
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed1fa23abeebbc90800000000000000
+      internalID: -7152861099666235936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6b76350f753241242afeb361acd7ccf0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Idle Detatched Head_0: -6319510475187443874
+      Idle Detatched Head_1: 882883215730946632
+      Idle Detatched Head_10: 8219547177134018987
+      Idle Detatched Head_11: -7152861099666235936
+      Idle Detatched Head_2: 7660320127131228448
+      Idle Detatched Head_3: -9089895693511565382
+      Idle Detatched Head_4: -6896005273713077519
+      Idle Detatched Head_5: 6798310861738725510
+      Idle Detatched Head_6: -6132655192999601082
+      Idle Detatched Head_7: 2439371719348744982
+      Idle Detatched Head_8: 8681706284653153256
+      Idle Detatched Head_9: 7306490499701803898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

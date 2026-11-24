@@ -112,6 +112,7 @@ public class HarpoonGun2 : MonoBehaviour
         line.SetActive(false);
         harpoon.transform.SetLocalPositionAndRotation(harpoon.transform.localPosition, quatZero);
         player.GetComponent<Animator>().SetBool("Harpoon", false);
+        player.GetComponent<Animator>().SetTrigger("Stow");
         harpoon.SetActive(false);
         
     }
