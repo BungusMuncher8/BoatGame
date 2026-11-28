@@ -146,17 +146,17 @@ public class PlayerMove : MonoBehaviour
     }
 
 
-    public void Recoil()
-    {
-        if (isFacingRight)
-        {
-            transform.Translate(Vector2.left * 0.05f);
-        } else
-        {
-            transform.Translate(Vector2.right * 0.05f);
-        }
+    // public void Recoil()
+    // {
+    //     if (isFacingRight)
+    //     {
+    //         transform.Translate(Vector2.left * 0.05f);
+    //     } else
+    //     {
+    //         transform.Translate(Vector2.right * 0.05f);
+    //     }
        
-    }
+    // }
 
 
     public void Unfreeze()
