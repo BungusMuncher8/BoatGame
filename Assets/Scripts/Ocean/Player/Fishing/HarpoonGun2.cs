@@ -49,16 +49,16 @@ public class HarpoonGun2 : MonoBehaviour
     private void Start()
     {
         harpoon = transform.GetChild(0).gameObject;
-        anim = harpoon.GetComponent<Animator>();
+        //anim = harpoon.GetComponent<Animator>();
         quatZero = Quaternion.Euler(0, 0, 0);   
-         ogPos = harpoon.transform.localPosition;
+        ogPos = harpoon.transform.localPosition;
         source = GetComponent<AudioSource>();
     }
 
     private void Update()
     {
       
-        anim.SetFloat("Speed", player.GetComponent<PlayerMove>().animator.GetFloat("Speed"));
+       // anim.SetFloat("Speed", player.GetComponent<PlayerMove>().animator.GetFloat("Speed"));
         SetInside();
         if (isFishing)
         {
@@ -77,13 +77,15 @@ public class HarpoonGun2 : MonoBehaviour
         }
         else if (Input.GetKeyUp(inputKey))
         {
-            anim.SetTrigger("Stow");
+            //anim.SetTrigger("Stow");
+            StowHarpoon();
             harpoon.transform.SetLocalPositionAndRotation(harpoon.transform.localPosition, quatZero);
         }
 
         if (canFire && Input.GetKeyDown(fireKey))
         {
-            anim.SetTrigger("Fire");
+            //anim.SetTrigger("Fire");
+            Fire();
             if (!player.GetComponent<EnterBoat>().inBoat || player.GetComponent<EnterBoat>().inBoat && !player.GetComponent<PlayerMove>().isMoving)
             {
                 player.GetComponent<Animator>().SetTrigger("Fire");
@@ -98,9 +100,9 @@ public class HarpoonGun2 : MonoBehaviour
         isFishing = true;
         canCast = false;
         canFire = true;
-        harpoon.SetActive(true);
+        //harpoon.SetActive(true);
         player.GetComponent<Animator>().SetBool("Harpoon", true);
-        anim.SetTrigger("Prep");
+       // anim.SetTrigger("Prep");
        
     }
 
@@ -168,7 +170,7 @@ public class HarpoonGun2 : MonoBehaviour
             }
             yield return null;
         }
-        anim.SetTrigger("Reeled");
+       // anim.SetTrigger("Reeled");
         line.SetActive(false);
         hasFire = false;
         canFire = true;
@@ -251,7 +253,7 @@ public class HarpoonGun2 : MonoBehaviour
 
     public void Turn()
     {
-        anim.SetTrigger("Turn");
+        //anim.SetTrigger("Turn");
     }
     public void Restart(){
         harpHead.GetComponent<Rigidbody2D>().simulated = false;
