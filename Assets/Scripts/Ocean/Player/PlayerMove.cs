@@ -119,7 +119,7 @@ public class PlayerMove : MonoBehaviour
            // freeze = true;
             rb.linearVelocity=Vector2.zero;
             animator.SetTrigger("Turn");
-            harpoon.Turn();
+            //harpoon.Turn();
            // harpHead.GetComponent<Rigidbody2D>().rotation = -harpHead.GetComponent<Rigidbody2D>().rotation;
 
             isFacingRight = !isFacingRight;            

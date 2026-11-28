@@ -251,10 +251,10 @@ public class HarpoonGun2 : MonoBehaviour
         }
     }
 
-    public void Turn()
-    {
+    //public void Turn()
+   // {
         //anim.SetTrigger("Turn");
-    }
+    //}
     public void Restart(){
         harpHead.GetComponent<Rigidbody2D>().simulated = false;
         isFishing = false;  
